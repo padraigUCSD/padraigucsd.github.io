@@ -5,7 +5,22 @@ Welcome to my GitHub user page! Read on to learn a bit more about me.
 
 ![Image Of Me](/headshotLQ.jpg)
 
-I am a patented inventor and researcher dedicated to productionizing life-saving innovations in mathematics and computer science on continuously deliverable IT service platforms. As an developer, I advocate for systems engineering approaches to problems. I am primarily interested developing highly engineered products that are suitable for constraining regulatory environments. I focus on the application domains of emergency response systems, healthcare delivery, and financial services. I have experience in a range of other fields including embedded systems, electromyography, thermoplastics, garment manufacturing, and automotive control systems. My research interests include optimization & operations research, online & optimal control systems, and chaos theory. 
+I am a patented inventor and researcher dedicated to productionizing life-saving innovations in mathematics and computer science on continuously deliverable IT service platforms. As an developer, I advocate for systems engineering approaches to problems. I am primarily interested developing highly engineered products that are suitable for constraining regulatory environments. I focus on the application domains of emergency response systems, healthcare delivery, and financial services. 
+
+I have experience in a range of other fields including 
+- embedded systems, 
+- electromyography, 
+- thermoplastics, 
+- garment manufacturing, 
+- business process improvement, and 
+- automotive control systems. 
+
+My research interests include 
+1. optimization & operations research, 
+2. online & optimal control systems, and 
+3. chaos theory. 
+
+While working for my current employer, Nakamura Partners, I created emergency response systems inventions that caused [US Patent No. 10,595,183](https://patents.google.com/patent/US10595183B2/) to be issued in the company's ownership (separate from and not affiliated with UCSD).
 
 Outside of work or school, I enjoy surfing, skateboarding, and playing the guitar. 
 
@@ -13,9 +28,6 @@ Outside of work or school, I enjoy surfing, skateboarding, and playing the guita
 
 The purpose of this Github account is to store and operate git repositories related to my coursework at UCSD. 
 
-### Fast Facts
-- While working for a technology company, I created inventions that caused [US Patent No. 10,595,183](https://patents.google.com/patent/US10595183B2/) to be issued in the company's ownership (separate from and not affiliated with UCSD).
-- 
 
 
 
