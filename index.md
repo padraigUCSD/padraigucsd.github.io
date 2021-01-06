@@ -45,3 +45,27 @@ pmacgaba@ucsd.edu
 
 padraig.macgabann@nakamurapartners.com  
 Tel: +1 (310) 861-6996 ext. 100
+
+### Compliance with CSE 110 (WI21) Assignment Requirements
+
+This section is comprised of various stylized elements that may not utilized elsewhere of the webpage, and that exist only to comply with CSE 110 (WI21) assignment requirements for this webpage. 
+
+1. **Styling Text**
+
+  - This is strikethrough text.
+
+  - This is Bold and nested italic text.
+
+    - This is All bold and italic text.
+
+2. **Quoting Code**
+
+`
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+`
+
+**Quoting Code**
