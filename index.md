@@ -47,8 +47,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### How to Contact Me
 
-I am available to contribute to certain academic projects.
-Academic: pmacgaba@ucsd.edu
+I am available to contribute to certain academic projects subject to the approval of my current employer (not UCSD affiliated). 
+My academic and commercial contact information is provided below.
 
-If you would like to discuss my involvement with my employer (not UCSD affiliated). NOTE: new clients should XXX.
-Commercial: padraig.macgabann@nakamurapartners.com | Tel: +1 (310) 861-6996 ext. 100
+**Academic:** 
+pmacgaba@ucsd.edu
+
+**Commercial:** 
+padraig.macgabann@nakamurapartners.com  
+Tel: +1 (310) 861-6996 ext. 100
