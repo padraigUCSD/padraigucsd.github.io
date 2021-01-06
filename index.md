@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## About Me
 
-[picture of me]
+![Image]
+
 I am a patented inventor and researcher dedicated to productionizing life-saving innovations in mathematics and computer science on continuously deliverable IT service platforms. As an developer, I advocate for systems engineering approaches to problems. I am primarily interested developing highly engineered products that are suitable for constraining regulatory environments. I focus on the application domains of emergency response systems, healthcare delivery, and financial services. I have experience in a range of other fields including embedded systems, electromyography, thermoplastics, garment manufacturing, and automotive control systems. My research interests include optimization & operations research, online & optimal control systems, and chaos theory. 
 
 Outside of work or school, I enjoy surfing, skateboarding, and playing the guitar. 
