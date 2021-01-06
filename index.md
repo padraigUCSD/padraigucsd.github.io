@@ -51,8 +51,10 @@ I am available to contribute to certain academic projects subject to the approva
 My academic and commercial contact information is provided below.
 
 **Academic:** 
+
 pmacgaba@ucsd.edu
 
 **Commercial:** 
+
 padraig.macgabann@nakamurapartners.com  
 Tel: +1 (310) 861-6996 ext. 100
