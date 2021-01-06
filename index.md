@@ -1,8 +1,5 @@
 # Welcome to my website
-
-You can use the [editor on GitHub](https://github.com/padraigUCSD/padraigucsd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my GitHub user page! Read on to learn a bit more about me.
 
 ## About Me
 
@@ -20,9 +17,6 @@ The purpose of this Github account is to store and operate git repositories rela
 - While working for a technology company, I created inventions that caused [US Patent No. 10,595,183](https://patents.google.com/patent/US10595183B2/) to be issued in the company's ownership (separate from and not affiliated with UCSD).
 - 
 
-### Pictures
-
-The purpose of this Github account is to store and operate git repositories related to my coursework at UCSD. 
 
 
 ```markdown
@@ -49,6 +43,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### How to Contact Me
 
 I am available to contribute to certain academic projects subject to the approval of my current employer (not UCSD affiliated). 
+If you are interested in my non-UCSD commerical work, use my commercial contact information at the bottom of this page to make an inquiry.
 My academic and commercial contact information is provided below.
 
 **Academic:** 
@@ -61,3 +56,5 @@ pmacgaba@ucsd.edu
 
 padraig.macgabann@nakamurapartners.com  
 Tel: +1 (310) 861-6996 ext. 100
+
+
