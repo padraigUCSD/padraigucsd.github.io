@@ -54,18 +54,18 @@ This section is comprised of various stylized elements that may not utilized els
 
   - This is strikethrough text.
 
-  - This is Bold and nested italic text.
+    - This is Bold and nested italic text.
 
-    - This is All bold and italic text.
+      - This is All bold and italic text.
 
 2. **Quoting Code**
 
-`
+```
 #include <stdio.h>
 int main() {
    printf("Hello, World!");
    return 0;
 }
-`
+```
 
 **Quoting Code**
