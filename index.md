@@ -1,5 +1,5 @@
 # Welcome to my website
-Welcome to my GitHub user page! Read on to learn a bit more about me.
+>Welcome to my GitHub user page! Read on to learn a bit more about me.
 
 ## About Me
 
@@ -46,7 +46,7 @@ pmacgaba@ucsd.edu
 padraig.macgabann@nakamurapartners.com  
 Tel: +1 (310) 861-6996 ext. 100
 
-> Here is a quote
+
 
 ```markdown
 Syntax highlighted code block
