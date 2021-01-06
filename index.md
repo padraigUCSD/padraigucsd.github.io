@@ -46,7 +46,7 @@ pmacgaba@ucsd.edu
 padraig.macgabann@nakamurapartners.com  
 Tel: +1 (310) 861-6996 ext. 100
 
-### Compliance with CSE 110 (WI21) Assignment Requirements
+## Compliance with CSE 110 (WI21) Assignment Requirements
 
 This section is comprised of various stylized elements that may not utilized elsewhere of the webpage, and that exist only to comply with CSE 110 (WI21) assignment requirements for this webpage. 
 
